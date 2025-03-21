@@ -1,5 +1,5 @@
 # Power BI Portfolio
-- A collection of best practices and techniques for building interactive dashboards, transforming data with Power Query, writing advanced DAX calculations, optimizing data models, and improving performance for large datasets.
+
 
 ## 🚀 Key Features
 
@@ -9,5 +9,3 @@
 - **Data Modeling**: Creating relationships and hierarchies for optimized reporting.
 - **Performance Optimization**: Techniques to improve performance with large datasets.
 
-# portfolio_power-bi
-- A collection of best practices and techniques for building interactive dashboards, transforming data with Power Query, writing advanced DAX calculations, optimizing data models, and improving performance for large datasets.
