@@ -1,4 +1,5 @@
 # Power BI Portfolio
+- A collection of best practices and techniques for building interactive dashboards, transforming data with Power Query, writing advanced DAX calculations, optimizing data models, and improving performance for large datasets.
 
 ## 🚀 Key Features
 
